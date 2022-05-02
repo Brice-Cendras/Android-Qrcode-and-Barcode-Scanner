@@ -1,0 +1,8 @@
+com/example/barcodeandqrcodescanner/BuildConfig.java
+ com.example.barcodeandqrcodescanner.BuildConfig
+com/example/barcodeandqrcodescanner/MainActivity.java
+ com.example.barcodeandqrcodescanner.MainActivity
+ com.example.barcodeandqrcodescanner.MainActivity$1
+ com.example.barcodeandqrcodescanner.MainActivity$2
+com/example/barcodeandqrcodescanner/ScanCodeActivity.java
+ com.example.barcodeandqrcodescanner.ScanCodeActivity
